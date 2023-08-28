@@ -1,7 +1,6 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
-
 
 - What was your motivation? To study coding easier.
 - Why did you build this project? To become familiar with the flow of the webpage building and coding software.
