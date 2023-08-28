@@ -2,7 +2,6 @@
 
 ## Description
 
-
 - What was your motivation? To study coding easier.
 - Why did you build this project? To become familiar with the flow of the webpage building and coding software.
 - What problem does it solve? This webpage creates a guide for studying and helps with introduction to coding. Since I am new to coding, this helps me at least be familiar with some terminology and workflow when the class starts. 
